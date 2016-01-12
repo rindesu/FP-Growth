@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FP-growth", "FP-growth\FP-growth.vcproj", "{CF85CDE0-8C77-49C3-857A-4444EB3EAD50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF85CDE0-8C77-49C3-857A-4444EB3EAD50}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CF85CDE0-8C77-49C3-857A-4444EB3EAD50}.Debug|Win32.Build.0 = Debug|Win32
+		{CF85CDE0-8C77-49C3-857A-4444EB3EAD50}.Release|Win32.ActiveCfg = Release|Win32
+		{CF85CDE0-8C77-49C3-857A-4444EB3EAD50}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
